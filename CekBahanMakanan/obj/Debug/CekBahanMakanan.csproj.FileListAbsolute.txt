@@ -1,0 +1,118 @@
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe.config
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.pdb
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.Properties.Resources.resources
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.exe
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.pdb
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan.mdf
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan_log.ldf
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CopyComplete
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan.mdf
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan_log.ldf
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe.config
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.pdb
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.dll
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.xml
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csprojAssemblyReference.cache
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.Properties.Resources.resources
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.GenerateResource.cache
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CoreCompileInputs.cache
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CopyComplete
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.exe
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.pdb
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.dll
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.xml
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.dll
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.xml
+C:\Users\Hp\Desktop\Semi-Important Stuff\Pro Gaming\Sauce Code\VS\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.MainForm.resources
+C:\Users\xRx\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.MainForm.resources
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan.mdf
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan_log.ldf
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe.config
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.pdb
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.dll
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.dll
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.xml
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.xml
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csprojAssemblyReference.cache
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.MainForm.resources
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.Properties.Resources.resources
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.GenerateResource.cache
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CoreCompileInputs.cache
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CopyComplete
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.exe
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.pdb
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan.mdf
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan_log.ldf
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe.config
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.pdb
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.dll
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.dll
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.dll
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.xml
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.xml
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.xml
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csprojAssemblyReference.cache
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.MainForm.resources
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.Properties.Resources.resources
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.GenerateResource.cache
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CoreCompileInputs.cache
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CopyComplete
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.exe
+F:\Sensen\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.pdb
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan.mdf
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan_log.ldf
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe.config
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.pdb
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.dll
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.dll
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.xml
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.xml
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csprojAssemblyReference.cache
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.MainForm.resources
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.Properties.Resources.resources
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.GenerateResource.cache
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CoreCompileInputs.cache
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CopyComplete
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.exe
+C:\Users\JoyCP\Desktop\PBO COOLYEAH SUBMIT\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.pdb
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan.mdf
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\StockBahan_log.ldf
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe.config
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.pdb
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.dll
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.dll
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.xml
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\bin\Debug\RestSharp.xml
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csprojAssemblyReference.cache
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.MainForm.resources
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.Properties.Resources.resources
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.GenerateResource.cache
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CoreCompileInputs.cache
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.csproj.CopyComplete
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.exe
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.pdb
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.exe.manifest
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\bin\Debug\CekBahanMakanan.application
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.exe.manifest
+C:\Users\JoyCP\source\repos\CekBahanMakanan\CekBahanMakanan\obj\Debug\CekBahanMakanan.application
